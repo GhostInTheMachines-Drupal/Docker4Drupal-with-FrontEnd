@@ -4,7 +4,7 @@ https://github.com/wodby/docker4drupal/issues/253
 
 ## Rebuild containers
 
-1. cd into project root where docker composer is
+1. cd into project root where docker compose yml file lives
 2. run docker-compose up -d --force-recreate --build
 
 # Docker-based Drupal stack
